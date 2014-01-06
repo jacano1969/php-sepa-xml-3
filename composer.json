@@ -1,0 +1,17 @@
+{
+    "name": "wytse/sepa-xml",
+    "authors": [
+        {
+            "name": "Wytse Vellema",
+            "email": "w.vellema@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+       }
+    }
+}
