@@ -1,5 +1,7 @@
 {
     "name": "wytse/sepa-xml",
+    "type": "library",
+    "description": "Creates an XML file for (SEPA) pain001.001.03",
     "authors": [
         {
             "name": "Wytse Vellema",
@@ -7,7 +9,7 @@
         }
     ],
     "require": {
-
+        "php": ">=5.3.2"
     },
     "autoload": {
         "psr-0": {
